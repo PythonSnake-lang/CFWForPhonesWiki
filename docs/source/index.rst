@@ -6,6 +6,7 @@ teaching you how to install custom firmware onto
 your phone!
 
 What is custom firmware?
+------------------------
 
 Custom firmware (“CFW”) is a full software modification
 to your phone, comparable to “administrator access” on 
